@@ -1,3 +1,3 @@
 # Practice Repository for IF110
 
-Todo: description
+Repository sample for some git commands
